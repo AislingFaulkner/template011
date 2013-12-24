@@ -2,6 +2,8 @@ template011
 ===========
 simple side scrolling shooter
 
+![alt tag](http://kata.coderdojo.com/images/e/ed/Shooter.png)
+
 Because of canvas rotation using translate and transform. I will build three different but similar shoot 'em ups to examine the 
 obstacles etc.
 
